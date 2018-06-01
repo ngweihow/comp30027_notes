@@ -1,17 +1,17 @@
-#Machine Learning Consultation
+# Machine Learning Consultation
 
-##Neural Network
+## Neural Network
 - Every Layer learns something else
 - Stack functions into each layer
 
 
-##Chi Square
+## Chi Square
 Mutual information would think negative features are small
 Since they have weights, rarer features get ignored
 
 Squaring the smaller weights would flesh them out even though they might have negative impact on regular mutual information
 
-##Mutual Information
+## Mutual Information
 	a    \a    total
 c   2850  2150 5000	
 \c  3150  1850 5000
@@ -21,11 +21,11 @@ Mutual information would find this predictive while chi2 might not
 Not very useful
 
 
-##EM Method
+## EM Method
 Only a way of describing methods
 
 
-##Gradient Descent/ Logistic Regression
+## Gradient Descent/ Logistic Regression
 Logistic Regression has the Sigmoid function
 Associate every values with weights
 Initialise beta to random values at the start
