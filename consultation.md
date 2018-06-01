@@ -12,7 +12,7 @@ Since they have weights, rarer features get ignored
 Squaring the smaller weights would flesh them out even though they might have negative impact on regular mutual information
 
 ## Mutual Information
-|	|a     |\a    total  |
+| x	| a    | \a   | total|
 |---|------|------|------|
 |c  |2850  |2150  |5000	 |
 |\c | 3150 |1850  |5000	 |
